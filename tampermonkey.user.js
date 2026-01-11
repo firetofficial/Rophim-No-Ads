@@ -7,6 +7,7 @@
 // @match        *://www.rophim.me/*
 // @match        *://www.rophim.mx/*
 // @match        *://www.rophim.li/*
+// @match        *://www.rophim.moi/*
 // @match        https://goatembed.com/*
 // @require      https://raw.githubusercontent.com/firetofficial/Rophim-No-Ads/refs/heads/main/rophim_noads.js
 // @homepageURL   https://github.com/firetofficial/Rophim-No-Ads
